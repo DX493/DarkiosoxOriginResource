@@ -1,3 +1,25 @@
 {
-    "If you see this message, you must download the resource pack !": "Resource pack : Detectado."
+    "If you see this message, you must download the resource pack !": "Resource pack : Detectado.",
+    "darkiosox.origin.ghost.name": "Ghost",
+    "darkiosox.origin.ghost.description": "Soon",
+    "darkiosox.origin.berserker.name": "Berserker",
+    "darkiosox.origin.berserker.description": "Soon",
+    "darkiosox.origin.pyromancer.name": "Pyromancer",
+    "darkiosox.origin.pyromancer.description": "Soon",
+    "darkiosox.origin.powers.cursed_touch.name": "Cursed touch",
+    "darkiosox.origin.powers.cursed_touch.description": "Inflect wither effect against your opponent",
+    "darkiosox.origin.powers.cursed_touch.info": "40% proc / 3 seconds CD",
+    "darkiosox.origin.powers.night_master.name": "Night master",
+    "darkiosox.origin.powers.night_master.description": "Your perception is better in the dark",
+    "darkiosox.origin.powers.night_regen.name": "Night regeneration",
+    "darkiosox.origin.powers.night_regen.description": "During night, your health regen slowly",
+    "darkiosox.origin.powers.night_speed.name": "Night running",
+    "darkiosox.origin.powers.night_speed.description": "During night, your speed is a bit increase",
+    "darkiosox.origin.powers.spectral.name": "Shadow",
+    "darkiosox.origin.powers.spectral.description": "Your appearance is altered",
+    "darkiosox.origin.powers.sun_weakness.name": "Sun weakness",
+    "darkiosox.origin.powers.sun_weakness.description": "Exposed to the sun, you're weaker",
+    "darkiosox.origin.powers.sun_weakness.info": "-2 hearts",
+    "darkosox.origin.powers.wither_immunity.name": "Wither immunity",
+    "darkosox.origin.powers.wither_immunity.description": "you are insensitive to the wither effect"
 }
