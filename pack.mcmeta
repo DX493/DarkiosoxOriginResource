@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "Alpha ressource pack for Darkiosox Origin Datapack"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Tutorial Language",
+      "region": "fr_fr",
+      "bidirectional": false
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# DarkiosoxOriginResource
+ Resource pack
