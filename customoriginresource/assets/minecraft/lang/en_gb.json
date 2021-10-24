@@ -13,6 +13,7 @@
     "darkiosox.origin.powers.night_master.description": "Your perception is better in the dark",
     "darkiosox.origin.powers.night_regen.name": "Night regeneration",
     "darkiosox.origin.powers.night_regen.description": "During night, your health regen slowly",
+    "darkiosox.origin.powers.night_regen.info": "half a heart each 5 seconds",
     "darkiosox.origin.powers.night_speed.name": "Night running",
     "darkiosox.origin.powers.night_speed.description": "During night, your speed is a bit increase",
     "darkiosox.origin.powers.spectral.name": "Shadow",
@@ -20,6 +21,6 @@
     "darkiosox.origin.powers.sun_weakness.name": "Sun weakness",
     "darkiosox.origin.powers.sun_weakness.description": "Exposed to the sun, you're weaker",
     "darkiosox.origin.powers.sun_weakness.info": "-2 hearts",
-    "darkosox.origin.powers.wither_immunity.name": "Wither immunity",
-    "darkosox.origin.powers.wither_immunity.description": "you are insensitive to the wither effect"
+    "darkiosox.origin.powers.wither_immunity.name": "Wither immunity",
+    "darkiosox.origin.powers.wither_immunity.description": "you are insensitive to the wither effect"
 }
